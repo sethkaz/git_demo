@@ -1,10 +1,10 @@
 import math
 
 def add(x,y):
-    return 4
+    return x+y
 
 def subtraction(x,y):
-    return 4
+    return x-y
 
 def square_root(x):
     return math.sqrt(x)
